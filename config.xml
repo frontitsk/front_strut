@@ -6,10 +6,10 @@
   Front IT SK Team
  </author>
 <platform name="android">
- <icon src="images/favicon/apple-touch-icon-57x57.png" density="ldpi" />
- <icon src="images/favicon/apple-touch-icon-72x72.png" density="mdpi" />
- <icon src="images/favicon/apple-touch-icon-114x114.png" density="hdpi" />
- <icon src="images/favicon/apple-touch-icon-144x144.png" density="xhdpi" />
+ <icon src="assets/www/images/favicon/apple-touch-icon-57x57.png" density="ldpi" />
+ <icon src="assets/www/images/favicon/apple-touch-icon-72x72.png" density="mdpi" />
+ <icon src="assets/www/images/favicon/apple-touch-icon-114x114.png" density="hdpi" />
+ <icon src="assets/www/images/favicon/apple-touch-icon-144x144.png" density="xhdpi" />
 </platform>
 <preference name="AllowInlineMediaPlayback" value="false" />
 <preference name="AutoHideSplashScreen" value="true" />
