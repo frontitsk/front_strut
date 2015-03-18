@@ -5,6 +5,7 @@
  <author email="dev@frontit.sk" href="http://frontit.sk/">
   Front IT SK Team
  </author>
+<icon src="assets/www/images/favicon/apple-touch-icon.png" />
 <platform name="android">
  <icon src="assets/www/images/favicon/apple-touch-icon-57x57.png" density="ldpi" />
  <icon src="assets/www/images/favicon/apple-touch-icon-72x72.png" density="mdpi" />
