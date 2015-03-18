@@ -5,30 +5,24 @@
  <author email="dev@frontit.sk" href="http://frontit.sk/">
   Front IT SK Team
  </author>
-<icon src="assets/www/images/favicon/apple-touch-icon.png" />
-<platform name="android">
- <icon src="assets/www/images/favicon/apple-touch-icon-57x57.png" density="ldpi" />
- <icon src="assets/www/images/favicon/apple-touch-icon-72x72.png" density="mdpi" />
- <icon src="assets/www/images/favicon/apple-touch-icon-114x114.png" density="hdpi" />
- <icon src="assets/www/images/favicon/apple-touch-icon-144x144.png" density="xhdpi" />
-</platform>
-<preference name="AllowInlineMediaPlayback" value="false" />
-<preference name="AutoHideSplashScreen" value="true" />
-<preference name="BackupWebStorage" value="cloud" />
-<preference name="DisallowOverscroll" value="false" />
-<preference name="EnableLocation" value="false" /><!-- DEPRECATED -->
-<preference name="EnableViewportScale" value="false" />
-<preference name="FadeSplashScreen" value="true" />
-<preference name="FadeSplashScreenDuration" value=".25" />
-<preference name="HideKeyboardFormAccessoryBar" value="false" />
-<preference name="KeyboardDisplayRequiresUserAction" value="true" />
-<preference name="KeyboardShrinksView" value="false" />
-<preference name="MediaPlaybackRequiresUserAction" value="false" />
-<preference name="ShowSplashScreenSpinner" value="true" />
-<preference name="SuppressesIncrementalRendering" value="false" />
-<preference name="TopActivityIndicator" value="gray" />
-<content src="index.html" />
-<plugins>
-</plugins>
-<access origin="*" />
+ <icon src="icon.png" />
+ <preference name="AllowInlineMediaPlayback" value="false" />
+ <preference name="AutoHideSplashScreen" value="true" />
+ <preference name="BackupWebStorage" value="cloud" />
+ <preference name="DisallowOverscroll" value="false" />
+ <preference name="EnableLocation" value="false" /><!-- DEPRECATED -->
+ <preference name="EnableViewportScale" value="false" />
+ <preference name="FadeSplashScreen" value="true" />
+ <preference name="FadeSplashScreenDuration" value=".25" />
+ <preference name="HideKeyboardFormAccessoryBar" value="false" />
+ <preference name="KeyboardDisplayRequiresUserAction" value="true" />
+ <preference name="KeyboardShrinksView" value="false" />
+ <preference name="MediaPlaybackRequiresUserAction" value="false" />
+ <preference name="ShowSplashScreenSpinner" value="true" />
+ <preference name="SuppressesIncrementalRendering" value="false" />
+ <preference name="TopActivityIndicator" value="gray" />
+ <content src="index.html" />
+ <plugins>
+ </plugins>
+ <access origin="*" />
 </widget>
