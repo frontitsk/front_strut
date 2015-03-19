@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
 <widget id="sk.frontit.strut" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
  <name>Strut</name>
-=======
-<widget id="sk.frontit.frontmesh" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
- <name>FrontMesh</name>
->>>>>>> 2c00a0499b895fe6a4abcb29cc26e45d562154ab
  <description>Demo app by Front IT SK</description>
  <author email="dev@frontit.sk" href="http://frontit.sk/">
   Front IT SK Team
