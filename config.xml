@@ -6,7 +6,8 @@
   Front IT SK Team
  </author>
  <icon src="icon.png" />
- <preference name="permissions" value="none"/>
+ <preference name="permissions" value="WRITE_EXTERNAL_STORAGE"/>
+
  <preference name="AllowInlineMediaPlayback" value="false" />
  <preference name="AutoHideSplashScreen" value="true" />
  <preference name="BackupWebStorage" value="cloud" />
